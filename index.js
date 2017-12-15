@@ -1,4 +1,4 @@
-var animal = 'dog'
+var animal = 'cat'
 
 function myAnimal() {
   var animal = 'dog'
@@ -6,7 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-
+  
   return animal
 }
 
